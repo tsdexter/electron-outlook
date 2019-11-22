@@ -1,3 +1,7 @@
+# Purpose
+
+This is a very simple electron app - all it does is load Microsoft Outlook into the `electron-quick-start` starter repo. I created this so I can load outlook more easily via scripts as well as allowing nvidia nView to launch and remember the window/size/position/screen information more easily (as it won't get confused with other chrome windows)
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**

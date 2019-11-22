@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron-outlook",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Load outlook in an Electron app",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -14,7 +14,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "@tsdexter",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^7.1.2"
